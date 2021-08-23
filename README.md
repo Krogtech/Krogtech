@@ -26,7 +26,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.twitter.com/kroggieboy57'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.youtube.com/channel/UCx4a2l9CbmaAh-eH-hTt2_w'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'https://www.youtube.com/channel/UCx4a2l9CbmaAh-eH-hTt2_w'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/Krogtech/Krogtech/e3a38183b73e5ffd9c57b8e3ba690994e89d512a/youtube.svg"/></a> 
 <a href = 'https://www.github.com/Krogtech'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
